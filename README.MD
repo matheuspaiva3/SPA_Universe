@@ -1,0 +1,1 @@
+This project serves as an introductory exploration into web development, focusing on SPA (Single Page Application) concepts such as routing, promises, and asynchronous JavaScript.
