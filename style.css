@@ -59,7 +59,7 @@ h1{
     transition: 0.7s linear;
 }
 section{
-    min-height: calc(100vh - 12.2rem); 
+    /* min-height: calc(100vh - 12.2rem);  */
 }
 #box{
     display: flex;
